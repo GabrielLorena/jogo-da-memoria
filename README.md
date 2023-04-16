@@ -1,1 +1,3 @@
-# jogo-da-memoria
+# Jogo da Memoria - Tema do Rick and Morty
+
+### O jogo da memória é um jogo que consiste em um conjunto de cartas com imagens ou números que são distribuídas com as faces viradas para baixo. O objetivo do jogo é virar duas cartas por vez e encontrar o par correspondente. Se as duas cartas correspondem, elas são retiradas do jogo, e o jogador ganha um ponto. Se as cartas não correspondem, elas são viradas novamente e o jogador tenta novamente. O jogo continua até que todas as cartas tenham sido encontradas e emparelhadas. O jogador com mais pontos no final do jogo é o vencedor. O jogo é uma forma divertida e desafiadora de exercitar a memória e a concentração.
